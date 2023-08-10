@@ -126,7 +126,7 @@ button:hover {
 
 .about-container {
     width: 317px;
-    height: 250px;
+    height: 225px;
     flex-shrink: 0;
     background-color: #1A1B21;
 }

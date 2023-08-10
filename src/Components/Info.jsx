@@ -13,7 +13,7 @@ export default function Info() {
           Email
         </button>
         <button className="right">
-          <img src="./public/linkedin.png" />
+          <img src="/linkedin.png" />
           Linkedin
         </button>
       </div>
